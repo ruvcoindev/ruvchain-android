@@ -7,7 +7,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "in.ruvchain.ruvchain"
+        applicationId "in.ruvcha.ruvchain"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 16
