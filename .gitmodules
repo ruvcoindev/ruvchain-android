@@ -1,0 +1,3 @@
+[submodule "libs/ruvchain-go"]
+	path = libs/ruvchain-go
+	url = https://github.com/ruvcoindev/ruvchain-go

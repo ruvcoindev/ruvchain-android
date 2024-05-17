@@ -1,0 +1,1 @@
+Official implementation for connecting to the Ruvchain Network from Android
