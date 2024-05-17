@@ -45,7 +45,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'in.ruvchain.ruvchain'
+    namespace 'in.ruvcha.ruvchain'
 }
 
 dependencies {
