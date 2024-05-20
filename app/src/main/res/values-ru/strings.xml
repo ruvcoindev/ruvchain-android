@@ -6,7 +6,7 @@
     <string name="dns_usable_servers_hint">Эти серверы DNS предоставляются членами коммюнити. Нажмите кнопку + чтобы добавить их в список выше. Долгое нажатие чтобы посмотреть информацию.</string>
     <string name="dns_no_configured_servers">Серверы не настроены</string>
     <string name="dns_configured_servers">Настроенные серверы</string>
-    <string name="dns_server_info_revertron">Этот сервер поддерживает работу с обычными доменами ICANN, системой ALFIS, доменами OpenNIC.\n\nКроме того, он блокирует рекламу, системы слежения и зловредные домены.\n\nАдминистратор сервера Ruvcoindev.</string>
+    <string name="dns_server_info_ruvcoindev">Этот сервер поддерживает работу с обычными доменами ICANN, доменами OpenNIC.\n\nКроме того, он блокирует рекламу, системы слежения и зловредные домены.\n\nАдминистратор сервера Ruvcoindev.</string>
     <string name="dns_server_info_dialog_title">О сервере</string>
     <string name="ok">Ок</string>
     <string name="cancel">Отмена</string>
